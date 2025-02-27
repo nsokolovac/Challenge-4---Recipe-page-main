@@ -30,7 +30,7 @@ body {
 	flex-direction: column;
 	justify-content: flex-start;
 	align-items: center;
-	margin: 10%;
+	margin: 10% auto;
 }
 	
 .recipe {
