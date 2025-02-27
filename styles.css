@@ -25,6 +25,7 @@
 body {
 	background-color: var(--stone-100);
 	max-width: 1440px;
+	/*height: auto;*/
 	/*height: 100vh;*/
 	display: flex;
 	flex-direction: column;
