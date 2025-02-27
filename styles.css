@@ -25,7 +25,6 @@
 body {
 	background-color: var(--stone-100);
 	max-width: 1440px;
-	height: 100vh;
 	display: flex;
 	flex-direction: column;
 	justify-content: center;
@@ -33,9 +32,8 @@ body {
 }
 	
 .recipe {
-	/*width: 90%;
-	max-width: 600px;*/
-	width: 50%;
+	width: 90%;
+	max-width: 600px;
 	/*height: 80%;*/
 	background-color: var(--white);
 	border-radius: 30px;
@@ -44,7 +42,6 @@ body {
 	justify-content: flex-start;
 	align-items: center;
 	padding: 2%;
-	margin: 10%;
 }
 
 .recipeImage {
